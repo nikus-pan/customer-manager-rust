@@ -1,0 +1,10 @@
+/home/nikus/.openclaw/agents/coder/workspace/customer-manager-rust/target/debug/deps/accesskit_consumer-4b73f5d5d2172abe.d: /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/lib.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/tree.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/node.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/filters.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/iterators.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/text.rs
+
+/home/nikus/.openclaw/agents/coder/workspace/customer-manager-rust/target/debug/deps/libaccesskit_consumer-4b73f5d5d2172abe.rmeta: /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/lib.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/tree.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/node.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/filters.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/iterators.rs /home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/text.rs
+
+/home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/lib.rs:
+/home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/tree.rs:
+/home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/node.rs:
+/home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/filters.rs:
+/home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/iterators.rs:
+/home/nikus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/text.rs:
