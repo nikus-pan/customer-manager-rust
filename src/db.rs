@@ -1,13 +1,24 @@
 use rusqlite::{Connection, Result, params};
 use std::path::PathBuf;
+use std::fs;
 use crate::models::Customer;
+use directories::ProjectDirs;
 
 pub struct Database {
     db_path: PathBuf,
 }
 
 impl Database {
-    pub fn new(db_path: PathBuf) -> Self {
+    pub fn new() -> Self {
+        let db_dir = if let Some(proj_dirs) = ProjectDirs::from("com", "nikuswork", "customermanager") {
+            let config_dir = proj_dirs.config_dir();
+            fs::create_dir_all(config_dir).ok();
+            config_dir.to_path_buf()
+        } else {
+            PathBuf::from(".")
+        };
+
+        let db_path = db_dir.join("customer.db");
         let db = Self { db_path };
         db.init().expect("無法初始化資料庫");
         db
