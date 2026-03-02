@@ -1,1 +1,0 @@
-D:\Nikuswork\customer-manager-rust\target\release\customer-manager-rust.exe: D:\Nikuswork\customer-manager-rust\src\app.rs D:\Nikuswork\customer-manager-rust\src\db.rs D:\Nikuswork\customer-manager-rust\src\main.rs D:\Nikuswork\customer-manager-rust\src\models.rs

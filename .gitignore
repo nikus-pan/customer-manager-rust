@@ -1,0 +1,23 @@
+# Rust 相關
+/target/
+**/*.rs.bk
+
+# 編譯產出的執行檔與調試文件
+*.exe
+*.pdb
+*.dll
+
+# Inno Setup 產出
+/Output/
+installer.iss.bak
+
+# 資料與報表
+*.db
+*.csv
+customers_export.csv
+
+# 系統與 IDE 相關
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
